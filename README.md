@@ -1,4 +1,8 @@
-# 🌍 Escapia — Your Digital Travel Planner
+<img src="public/logo.png" alt="Escapia Logo" width="150" height="150" />
+
+# Escapia — Your Digital Travel Planner 
+
+
 
 **Escapia** is a modern travel planning web app that helps you explore destinations, visualize them on a globe, and plan trips seamlessly with maps and media. It's built to be fast, beautiful, and easy to use — perfect for wanderlusters and casual travelers alike.
 
@@ -27,8 +31,6 @@
 ---
 
 ## 📸 Screenshots & Demo
-
-_(Add images or GIFs here showcasing the UI and map features)_
 
 ### 1. Homepage Overview
 
